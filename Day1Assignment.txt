@@ -1,0 +1,32 @@
+1. What is your understanding of Blockchain?
+A. Block chain is a distributed database i.e  same data is existed in different systems,and it is secured with cryptography.
+
+
+
+2. What is the core problem blockchain trying to solve?
+A. It solves of the problem of data security and trust by making ledger public with no middle men.
+
+
+
+3. What are the few features which blockchain will give you?
+A. -Decentralized technology
+   -data Security
+   -Verifiable
+   -permanent data with no changes
+   -distributed ledgers
+
+
+
+4. What all things does a Block contain?
+A. A block contains
+	Block number
+	Transaction records
+	previous block signature
+	Mining key
+
+
+
+5. How is the verifiability of Blockchain is been attained?
+A. Verifiability property is attained by the concept of distributed data base in blockchain.
+   As same data is existed in different systems,whenever hash key is changed ,we can check if any data is changed by comparing 
+   any data is changed by comparing the data with data in other's systems.In this way we can verify our data any time.
